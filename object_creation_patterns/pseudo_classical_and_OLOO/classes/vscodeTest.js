@@ -1,0 +1,3 @@
+let someObj = {
+  a: 'a',
+};
